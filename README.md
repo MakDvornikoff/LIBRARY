@@ -15,12 +15,9 @@
 -----------------------------------------------------------------------------------------------------
 30/10/2018
 -----------------------------------------------------------------------------------------------------
-[Приемы объектно-ориентированного проектирования. Паттерны проектирования. (2015) (PDF)]
-(https://github.com/MakDvornikoff/LIBRARY/blob/master/Agurov_P._CSharp_Sbornik_receptov.pdf)
+[Приемы объектно-ориентированного проектирования. Паттерны проектирования. (2015) (PDF)](https://github.com/MakDvornikoff/LIBRARY/blob/master/Agurov_P._CSharp_Sbornik_receptov.pdf)
 
-[C#. Советы программистам (2008) (PDF)]
-(https://github.com/MakDvornikoff/LIBRARY/blob/master/Klimov_A._CSharp_Sovety_programmistam.pdf)
+[C#. Советы программистам (2008) (PDF)](https://github.com/MakDvornikoff/LIBRARY/blob/master/Klimov_A._CSharp_Sovety_programmistam.pdf)
 
-[C#. Сборник рецептов (2007) (PDF)]
-(https://github.com/MakDvornikoff/LIBRARY/blob/master/Agurov_P._CSharp_Sbornik_receptov.pdf)
+[C#. Сборник рецептов (2007) (PDF)](https://github.com/MakDvornikoff/LIBRARY/blob/master/Agurov_P._CSharp_Sbornik_receptov.pdf)
 -----------------------------------------------------------------------------------------------------
